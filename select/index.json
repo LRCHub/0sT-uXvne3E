@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Punk Head",
+  "base_artist": "Enfants",
+  "createdAt": "2026-02-08T16:24:42.119413Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Punk Head",
+      "artist": "Enfants",
+      "has_synced": false,
+      "path": "select/pl_01_Punk_Head_Enfants.txt"
+    }
+  ]
+}
